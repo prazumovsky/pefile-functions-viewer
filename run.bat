@@ -1,1 +1,1 @@
-%1 main.py -d %2 -s %3
+%1 viewer\main.py -d %2 -s %3
